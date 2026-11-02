@@ -1,0 +1,9 @@
+numpy==1.24.4
+scipy==1.10.1
+mujoco==2.3.7
+dm-control==1.0.14
+opencv-python==4.8.1.78
+ikpy==3.4.2
+transformations==2022.9.26
+Pillow==10.4.0
+matplotlib==3.7.5

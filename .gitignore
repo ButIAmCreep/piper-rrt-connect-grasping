@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.vscode/
+
+# Keep the original Task 2 backup locally.
+rrt_piper_advance_before_task2.py
+
+# Generated recordings: commit only the selected short demo.
+*.mp4
+!rrt_robot_motion_2.mp4
+
+# Course reference animations and unused large reconstruction files.
+media/
+assets/models/002_master_chef_can/*.sdf
+assets/models/002_master_chef_can/*.pth
+assets/models/002_master_chef_can/texture_map_old.png
+assets/models/002_master_chef_can/texture_map_bgr.png
+assets/models/002_master_chef_can/master_chef_can.stl
+assets/models/002_master_chef_can/textured_simple.obj
+assets/models/002_master_chef_can/textured_simple.obj.mtl
+assets/models/002_master_chef_can/points.xyz
